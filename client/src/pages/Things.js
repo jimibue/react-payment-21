@@ -15,7 +15,7 @@ export default function Things() {
   };
   return (
     <div>
-      <h1>Things</h1>
+      <h1>Things!!!!!!</h1>
       <Text>working</Text>
     </div>
   );
